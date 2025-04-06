@@ -1,6 +1,6 @@
 # Next Generation Reservoir Computing (NG‑RC) for Nonlinear Dynamic Systems Analysis
 
-This project was developed as part of my Master's thesis at COPPE/UFRJ under the supervision of Thiago Gamboa Ritto. The thesis, titled "Next Generation Reservoir Computing (NG-RC) for the analysis of nonlinear dynamic systems" explores the application of NG‑RC to model and predict the behavior of complex nonlinear dynamic systems.
+This project was developed as part of my Master's thesis at COPPE/UFRJ under the supervision of Thiago Gamboa Ritto. The thesis, entitled "Next Generation Reservoir Computing (NG-RC) for the analysis of nonlinear dynamic systems" explores the application of NG‑RC to model and predict the behavior of complex nonlinear dynamic systems.
 
 ## Project Overview
 
@@ -47,6 +47,10 @@ To run the experiments, open and execute the notebooks in the `notebooks` folder
 - **drill_string.ipynb**: NG‑RC analysis for the drill string system.
 
 The modular code in the `src` directory can also be imported into your own scripts for further experimentation.
+
+## Disclaimer
+
+This code was developed solely for study purposes and as a demonstration for my Master's thesis. It is not intended to follow best programming practices or to be optimized for performance. Use it as a learning resource, and adapt it as necessary for your own projects.
 
 ## License
 
