@@ -50,7 +50,7 @@ The modular code in the `src` directory can also be imported into your own scrip
 
 ## License
 
-[Insert License Information Here, e.g., MIT License]
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
